@@ -1,4 +1,5 @@
 # RedditClone
+This project is from the ng2screencast-v2 which is part of the Angular2 training - https://www.ng-book.com/2/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
